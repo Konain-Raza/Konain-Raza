@@ -1,6 +1,6 @@
 
-# 🚀 Hey there, I'm Konain Raza!
- 🌟 With an insatiable curiosity, I'm constantly delving into the realms of technology and human behavior. 💡 From crafting elegant code to unraveling the mysteries of the mind, I thrive on challenges that expand my horizons. 🧠 Currently, I'm deeply immersed in the fascinating world of AI-powered chatbots and their seamless integration into web applications. 💬 I'm always on the lookout for exciting projects that ignite my creativity and push the boundaries of problem-solving. 👯‍♂️ Whether it's collaborating on innovative ventures or mastering advanced algorithms and data structures, count me in! Let's connect and embark on this journey together. 🌱
+# 🚀 Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I'm Konain Raza!
+🌟 With an insatiable curiosity, I'm constantly delving into the realms of technology and human behavior. 💡 From crafting elegant code to unraveling the mysteries of the mind, I thrive on challenges that expand my horizons. 🧠 Currently, I'm deeply immersed in the fascinating world of AI-powered chatbots and their seamless integration into web applications. 💬 I'm always on the lookout for exciting projects that ignite my creativity and push the boundaries of problem-solving. 👯‍♂️ Whether it's collaborating on innovative ventures or mastering advanced algorithms and data structures, count me in! Let's connect and embark on this journey together. 🌱
 
 
 💬 **Ask me about:**  
@@ -11,13 +11,18 @@ One time, I embarked on a daring hike to the top of a volcano and indulged in th
 
 [![](https://visitcount.itsvg.in/api?id=Konain-Raza&icon=8&color=11)](https://visitcount.itsvg.in)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
+
+<div align="center">
+ 
 ![](https://github-contributor-stats.vercel.app/api?username=Konain-Raza&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🌐 Socials:
+</div>
+
+# 🔗 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/konainraza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/konain-raza-) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/konainraza) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Konain-Raza) 
 
-# 💻 Technology Stack:
+# 🧑🏻‍💻 Technology Stack:
 
 <div align="center">
 
@@ -28,7 +33,7 @@ One time, I embarked on a daring hike to the top of a volcano and indulged in th
 </div>
 
   
-# 📊 GitHub Stats:
+# 📈 GitHub Stats:
 
 <div align="center">
   
