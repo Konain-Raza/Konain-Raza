@@ -59,11 +59,7 @@ One time, I embarked on a daring hike to the top of a volcano and indulged in th
 
 </div>
 
-# 😂 Dive into the Humorous Side of Coding
 
-<div align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
 
 
 ---
