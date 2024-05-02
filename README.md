@@ -1,6 +1,6 @@
 
 # 🚀 Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Konain Raza!
-🌟 With an insatiable curiosity, I'm constantly delving into the realms of technology and human behavior. 💡 From crafting elegant code to unraveling the mysteries of the mind, I thrive on challenges that expand my horizons. 🧠 Currently, I'm deeply immersed in the fascinating world of AI-powered chatbots and their seamless integration into web applications. 💬 I'm always on the lookout for exciting projects that ignite my creativity and push the boundaries of problem-solving. 👯‍♂️ Whether it's collaborating on innovative ventures or mastering advanced algorithms and data structures, count me in! Let's connect and embark on this journey together. 🌱
+🌟 With an insatiable curiosity, I'm constantly delving into the realms of technology and human behavior. 💡 From crafting elegant code to unraveling thte mysteries of the mind, I thrive on challenges that expand my horizons. 🧠 Currently, I'm deeply immersed in the fascinating world of AI-powered chatbots and their seamless integration into web applications. 💬 I'm always on the lookout for exciting projects that ignite my creativity and push the boundaries of problem-solving. 👯‍♂️ Whether it's collaborating on innovative ventures or mastering advanced algorithms and data structures, count me in! Let's connect and embark on this journey together. 🌱
 
 
 💬 **Ask me about:**  
