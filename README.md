@@ -9,7 +9,7 @@ My transformation from a psychology enthusiast to a full stack developer. I'd lo
 ⚡ **Fun fact:**  
 One time, I embarked on a daring hike to the top of a volcano and indulged in the unique experience of roasting marshmallows over flowing lava! 🌋
 
-[![](https://visitcount.itsvg.in/api?id=Konain-Raza&icon=8&color=11)](https://visitcount.itsvg.in)
+
 
 # 🔝 Top Contributed Repo
 
