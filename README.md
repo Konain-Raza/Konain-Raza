@@ -25,7 +25,7 @@ Once, I hiked to the top of a volcano and roasted marshmallows over flowing lava
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,dart,c,cpp,py,nodejs,figma,bootstrap,tailwindcss,react,docker,dotnet,flutter,git,github,ai,ps,linux,md,mysql,netlify,vercel,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,dart,c,cpp,php,py,nodejs,figma,bootstrap,tailwindcss,react,docker,dotnet,flutter,git,github,ai,ps,linux,md,mysql,netlify,vercel,&theme=dark)](https://skillicons.dev)
 
 </div>
 
